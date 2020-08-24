@@ -1,4 +1,4 @@
-# Coding Activitity WebApiCore & Vue
+# Coding Activity WebApiCore & Vue
 
 ## Go To
 
