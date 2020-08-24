@@ -1,8 +1,8 @@
-# clientapp
+# Coding Activitity WebApiCore & Vue
 
 ## Go To
 
-root/CodingActivity.WebApiVue/clientapp
+**root/CodingActivity.WebApiVue/clientapp**
 
 ## Project Vue setup
 ```
@@ -31,7 +31,7 @@ npm run lint
 
 ## Go To
 
-root/CodingActivity.WebApiVue
+**root/CodingActivity.WebApiVue**
 
 ## Project WebApi setup
 ```
@@ -54,6 +54,3 @@ services.AddCors(options =>
                       });
 });
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
